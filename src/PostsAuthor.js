@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-class Author extends Component {
+class PostsAuthor extends Component {
     render(){
         return(
             <div className="avatar">
@@ -14,4 +14,4 @@ class Author extends Component {
     }
 }
 
-export default Author
+export default PostsAuthor
